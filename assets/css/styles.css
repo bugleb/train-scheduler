@@ -1,0 +1,21 @@
+.jumbotron {
+	background-color: #337ab7;
+	color: lightgray;
+}
+
+.blue-border {
+	border: darkblue solid 1px;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.input-div {
+	width: 100%;
+	padding: 20px;
+}
+
+.my-input {
+	width: 100%;
+}
